@@ -4,7 +4,7 @@
 
 Codesty <a href="https://codesty.org/" rel="nofollow">Manager. </a>  
 
-  <img src="https://media.discordapp.net/attachments/827805299448217611/926159460479684658/unknown.png?width=1245&height=700" alt="arduino" width="240" height="120"  > 
+  <img src="https://media.discordapp.net/attachments/495237695891701760/927219860457533491/Logo-Siyah.png?width=608&height=608" alt="arduino" width="240" height="120"  > 
 
 Founder of <a href="https://hot-studio.cf/" rel="nofollow">Hot Studio.</a>
 
