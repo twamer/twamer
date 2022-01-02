@@ -4,4 +4,4 @@
 
 Codesty <a href="https://codesty.org/" rel="nofollow">Manager. </a>
 Founder of <a href="https://codesty.org/" rel="nofollow">Tasarim. </a>
-Founder of the Thomas Music.
+Founder of the <a href="https://discord.bots.gg/bots/873180481447944193" rel="nofollow">Thomas Music. </a>
