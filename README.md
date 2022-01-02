@@ -5,7 +5,8 @@
 Codesty <a href="https://codesty.org/" rel="nofollow">Manager. </a>
 
 Founder of <a href="https://hot-studio.cf/" rel="nofollow">Tasarim.</a>
-  <img src="https://media.discordapp.net/attachments/888454074603819058/927120310317228072/HS2.png?width=923&height=421" alt="arduino" width="40" height="40"  > 
+
+  <img src="https://media.discordapp.net/attachments/888454074603819058/927120310317228072/HS2.png?width=923&height=421" alt="arduino" width="240" height="120"  > 
 
 Founder of the <a href="https://discord.bots.gg/bots/873180481447944193" rel="nofollow">Thomas Music. </a>
 
